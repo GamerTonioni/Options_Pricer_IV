@@ -19,7 +19,6 @@ The project combines financial mathematics, numerical methods, automated testing
 - Python
 - Streamlit
 - Plotly
-- NumPy / pandas, where used in the application
 - `unittest` and `pytest`
 
 ## Financial Model
